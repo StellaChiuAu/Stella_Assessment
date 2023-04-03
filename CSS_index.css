@@ -20,7 +20,7 @@ main>.item{background-color:non;flex:nono;width:305px;height:250px;
 
 
 .wrapper{display: grid;grid-template-columns: 125px 0px 270px 0px 270px 0px 270px 0px 125px;
-grid-template-rows: auto 0px auto 0px auto 0px auto 0px auto;width:100%;margin:-10px}
+grid-template-rows: auto 0px auto 0px auto 0px auto 0px auto;width:100%;margin:-10px;width:100%}
 
 .a{background-color: rgb(14, 165, 185);grid-column: 1/2;grid-row: 1/10;}
 .b{background-color: rgb(14, 165, 185);grid-column: 9/10;grid-row: 1/10;}
